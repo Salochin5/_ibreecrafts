@@ -6,7 +6,7 @@ const Header = () => {
   <header>
    <Navbar bg='light' variant='light' className='mb-3' collapseOnSelect>
     <Container>
-     <Navbar.Brand href='#'>iBreeCrafts</Navbar.Brand>
+     <Navbar.Brand href='/'>iBreeCrafts</Navbar.Brand>
      <Navbar.Offcanvas placement='end'>
       <Offcanvas.Header closeButton>
        <Offcanvas.Title>ibreecrafts</Offcanvas.Title>
